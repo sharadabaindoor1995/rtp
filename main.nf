@@ -33,4 +33,4 @@ process MULTIQC{
     """
 }
 
-(ch_a, cha_b)=ch_multiqc.intro(2)
+
