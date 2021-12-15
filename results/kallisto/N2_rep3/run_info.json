@@ -1,0 +1,13 @@
+{
+	"n_targets": 5171,
+	"n_bootstraps": 0,
+	"n_processed": 434099,
+	"n_pseudoaligned": 387193,
+	"n_unique": 260297,
+	"p_pseudoaligned": 89.2,
+	"p_unique": 60.0,
+	"kallisto_version": "0.46.2",
+	"index_version": 10,
+	"start_time": "Wed Dec 15 14:00:44 2021",
+	"call": "kallisto quant -i chrI.idx -t 2 -o N2_rep3/ --bias N2_rep3_1.fastq.gz N2_rep3_2.fastq.gz"
+}
